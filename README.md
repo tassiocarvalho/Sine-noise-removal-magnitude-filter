@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/e76c8bb0-ba2a-4890-8288-cd5bedccb1e4)
+
 # **Sine Noise Removal Using Magnitude Filter**
 
 This MATLAB script demonstrates the process of removing sinusoidal noise from an image using a magnitude-based frequency domain filter. The workflow includes adding artificial noise, applying a filter in the Fourier domain, and visualizing the results in both 2D and 3D.
